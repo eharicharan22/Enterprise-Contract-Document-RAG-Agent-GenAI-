@@ -6,7 +6,7 @@ langchain-google-genai==1.0.10
 langchain-text-splitters==0.2.4
 
 # ---------- Vector Stores ----------
-chromadb==0.5.23
+chromadb>=0.5.5,<0.6
 langchain-chroma==0.1.4
 
 qdrant-client==1.13.2
